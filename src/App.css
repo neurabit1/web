@@ -1,0 +1,17 @@
+/* src/App.css */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  transition: all 0.3s ease;
+}
+
+h1 {
+  text-shadow: 0 0 10px #00AEEF;
+}
+
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
